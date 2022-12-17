@@ -20,4 +20,6 @@ I've just graduated Hexlet school and now I'm looking for the new career opportu
 [![Telegram](https://img.shields.io/badge/-rgb(131,131,131)?style=social&logo=Telegram)](https://t.me/dmitry_vic)  @dmitry_vic  
 ![Mail](https://img.shields.io/badge/-rgb(131,131,131)?style=social&logo=gmail)  iam0kay@yandex.ru
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Difuster&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Difuster&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difuster&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
