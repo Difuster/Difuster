@@ -17,5 +17,7 @@ I've just graduated Hexlet school and now I'm looking for the new career opportu
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Contact me  
-![Telegram](https://img.shields.io/badge/-rgb(131,131,131)?style=social&logo=Telegram)  @dmitry_vic  
+[![Telegram](https://img.shields.io/badge/-rgb(131,131,131)?style=social&logo=Telegram)](https://t.me/dmitry_vic)  @dmitry_vic  
 ![Mail](https://img.shields.io/badge/-rgb(131,131,131)?style=social&logo=gmail)  iam0kay@yandex.ru
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Difuster&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
