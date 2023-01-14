@@ -1,9 +1,9 @@
 ## 👋 Hi there!
 My name is Dmitry  
 
-I've just graduated Hexlet school and now I'm looking for the new career opportunities as a <b>Junior Frontend developer</b>  
+I've just graduated Hexlet school and now I'm looking for the new career opportunities as a <b>Junior Frontend developer</b>
 
-Ready to relocate ![alt relocate](https://i.pinimg.com/564x/61/5f/f9/615ff987080b813153522593b0ebe446.jpg)
+Ready to relocate!
 
 
 ### Languages and Tools  
